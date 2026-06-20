@@ -1,0 +1,70 @@
+{
+    "bla":
+    {
+        "bboxes":
+        [
+            [
+                0.156,
+                0.328,
+                0.283,
+                0.277
+            ]
+        ],
+        "labels":
+        [
+            "peace"
+        ],
+        "landmarks":
+        [
+        ],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+
+    "blie":
+    {
+        "bboxes":
+        [
+            [
+                0.096,
+                0.414,
+                0.208,
+                0.258
+            ]
+        ],
+        "labels":
+        [
+            "like"
+        ],
+        "landmarks":
+        [
+        ],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+
+    "blub":
+    {
+        "bboxes":
+        [
+            [
+                0.031,
+                0.294,
+                0.26,
+                0.27
+            ]
+        ],
+        "labels":
+        [
+            "rock"
+        ],
+        "landmarks":
+        [
+        ],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    }
+}
